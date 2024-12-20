@@ -16,7 +16,7 @@ public class Stock {
     private Product product;
 
     @Enumerated(EnumType.STRING)
-    private com.systoque.systoque.model.OperationType operationType;
+    private com.Systoque_back_end.model.OperationType operationType;
 
     private int quantity;
 
